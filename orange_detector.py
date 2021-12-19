@@ -1,11 +1,11 @@
 '''
-Description: 
+Description: https://pysource.com/2021/10/29/kalman-filter-predict-the-trajectory-of-an-object/
 FilePath: \Pysource_Kalman_filter\orange_detector.py
 Autor: Rainche
 Date: 2021-10-28 22:06:14
-LastEditTime: 2021-11-27 15:24:47
+LastEditTime: 2021-12-19 14:27:22
 '''
-#https://pysource.com/2021/10/29/kalman-filter-predict-the-trajectory-of-an-object/
+
 import cv2
 import numpy as np
 
