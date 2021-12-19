@@ -1,9 +1,9 @@
 '''
-Description: from https://blog.csdn.net/Miaosh999/article/details/106934655/
+Description: from https://blog.csdn.net/Miaosh999/article/details/106934655/  跟踪视频中的小球（无原视频）
 FilePath: \Pysource_Kalman_filter\another_tracker.py
 Autor: Rainche
 Date: 2021-11-27 15:54:24
-LastEditTime: 2021-11-27 16:52:49
+LastEditTime: 2021-12-19 16:32:21
 '''
 import cv2
 import numpy as np

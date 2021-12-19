@@ -1,9 +1,9 @@
 '''
-Description: 
+Description: 二维坐标点滤波
 FilePath: \Pysource_Kalman_filter\second_tracker.py
 Autor: Rainche
 Date: 2021-12-03 20:23:13
-LastEditTime: 2021-12-03 20:23:14
+LastEditTime: 2021-12-19 16:31:56
 '''
 import numpy as np
 

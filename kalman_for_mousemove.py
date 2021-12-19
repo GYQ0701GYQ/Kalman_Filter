@@ -1,10 +1,11 @@
 '''
-Description: from https://blog.csdn.net/ZYX19950825/article/details/63683161
-FilePath: \Pysource_Kalman_filter\kalman.py
+Description: from https://blog.csdn.net/ZYX19950825/article/details/63683161  鼠标轨迹跟踪
+FilePath: \Pysource_Kalman_filter\kalman_for_mousemove.py
 Autor: Rainche
 Date: 2021-11-26 17:16:34
-LastEditTime: 2021-11-27 17:11:06
+LastEditTime: 2021-12-19 16:31:35
 '''
+
 import cv2
 import numpy as np
 #创建一个大小800*800的空帧
